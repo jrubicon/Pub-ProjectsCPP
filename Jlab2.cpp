@@ -1,4 +1,4 @@
-///Author: Justin Drouin
+///Author: Justin D
 //CPSC 121 Lab 2
 //09/11/2018
 
