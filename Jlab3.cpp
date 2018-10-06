@@ -1,4 +1,4 @@
-//Justin D
+//Justin D.
 //CPSC 121 Lab 3
 //09/24/2018
 
