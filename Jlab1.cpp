@@ -1,4 +1,4 @@
-//Justin Drouin
+//Justin D
 //CPSC 121 Lab 1
 //9/01/2017
 #include <iostream>
