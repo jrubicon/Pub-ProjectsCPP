@@ -1,6 +1,6 @@
 //Author: Justin Drouin
 //CPSC 121 Lab 7
-//11/15/1991
+//11/25/2018
 
 #include <string>
 #include <iostream>
